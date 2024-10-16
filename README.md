@@ -49,6 +49,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=a7t-byte&style=for-the-badge&color=f75c7e" alt="GitHub Profile Views">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fa7t-byte&query=%24.stars&style=for-the-badge&label=STARS&color=f75c7e">
 </div>
 
 <br/><br/>
