@@ -1,8 +1,29 @@
-<img width=100% title="Greeting Words" alt="CoderAbhi.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=THANK-YOU-FOR-VISTING🔰&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="Greeting Words" alt="ZaynKelly" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=100:ff7a97,0:ff7a97&text=THANKS%20FOR%20VISITING&fontSize=42&fontAlignY=32&animation=twinkling"/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!%20,%20👋%20I'm%20Zayn%20Kelly.&font=Pacifico&center=true&width=750&height=120&color=58a6ff&vCenter=true&size=45%22">
-</div>
+<p align="center">
+  <a href="https://github.com/a7t-byte">
+    <img src="https://i.imgur.com/MYlwYfl.png" alt="Zayn Kelly" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/a7t-byte/">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;6%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=480&height=85&color=f75c7e&vCenter=true&pause=1000&size=25" /></a>
+</p>
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://codepen.io/a7t-byte"><img width="32px" alt="Codepen" title="Codepen" src="https://i.imgur.com/DTwQxxH.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/a7t-byte"><img width="32px" alt="Dev.to" title="Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/a7tbyte"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/voltixbot" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/a7t-byte"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ☀️ Been part of this industry for over 6 years <br/>
@@ -230,12 +251,12 @@
 <h3 align="left">🌼 Connect with me</h3>
 <p align="left">
 <a href="https://codepen.io/a7t-byte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="a7t-byte" height="30" width="40" /></a>
-<a href="https://dev.to/a7t-byte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="a7t-byte" height="30" width="40" /></a>
+<a href="https://dev.to/a7t-byte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" fill="#f75c7e" alt="a7t-byte" height="30" width="40" /></a>
 <a href="https://twitter.com/a7tbyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a7t-byte" height="30" width="40" /></a>
 <a href="https://discord.gg/voltixbot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="voltixbot" height="30" width="40" /></a>
 </p>
 
-<img width=100% title="Coder Abhi." alt="RBrooks76" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="Zayn Kelly" alt="ZaynKelly" src="https://capsule-render.vercel.app/api?type=waving&color=100:ff7a97,0:ff7a97&height=150&section=footer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <!--
 **george-dev104/george-dev104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
