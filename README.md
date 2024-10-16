@@ -20,6 +20,12 @@
   <img src="https://discord-readme-badge.vercel.app/api?id=260234767058862080" alt="My Discord">
 </div>
 
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=92snzp5cylz0joodc94q92z8j&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=92snzp5cylz0joodc94q92z8j&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=2954d6&bar_color_cover=true" alt="Spotify Profile">
+  </a>
+</div>
+
 <br/><br/>
 
 <h1 align="center">🌟 Programming Languages </h1>
