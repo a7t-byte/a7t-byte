@@ -35,6 +35,12 @@
 📚 Continuouly improving my skills and staying up-dated with the latest technologies <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=a7t-byte&style=for-the-badge&color=f75c7e" alt="GitHub Profile Views">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fa7t-byte&query=%24.stars&style=for-the-badge&label=STARS&color=f75c7e">
+<a href=""><img src="https://img.shields.io/github/followers/a7t-byte?color=f75c7e&style=for-the-badge" alt="zaynkelly"/></a>
+</div>
+
 ## 
 
 <div align="center">
@@ -45,12 +51,6 @@
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=92snzp5cylz0joodc94q92z8j&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=92snzp5cylz0joodc94q92z8j&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=2954d6&bar_color_cover=true" alt="Spotify Profile">
   </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=a7t-byte&style=for-the-badge&color=f75c7e" alt="GitHub Profile Views">
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fa7t-byte&query=%24.stars&style=for-the-badge&label=STARS&color=f75c7e">
-<a href=""><img src="https://img.shields.io/github/followers/a7t-byte?color=f75c7e&style=for-the-badge" alt="zaynkelly"/></a>
 </div>
 
 <br/><br/>
