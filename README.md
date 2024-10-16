@@ -26,6 +26,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=a7t-byte" alt="GitHub Profile Views">
+</div>
+
 <br/><br/>
 
 <h1 align="center">🌟 Programming Languages </h1>
