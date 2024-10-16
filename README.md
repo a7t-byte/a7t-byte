@@ -1,4 +1,4 @@
-<img width=100% title="Greeting Words" alt="ZaynKelly" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=100:ff7a97,0:ff7a97&text=THANKS%20FOR%20VISITING&fontSize=42&fontAlignY=32&animation=twinkling"/>
+<img width=100% title="Greeting Words" alt="ZaynKelly" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=100:f75c7e,0:f75c7e&text=THANKS%20FOR%20VISITING&fontSize=42&fontAlignY=32&animation=twinkling"/>
 
 <p align="center">
   <a href="https://github.com/a7t-byte">
@@ -257,7 +257,7 @@
 </p>
 -->
 
-<img width=100% title="Zayn Kelly" alt="ZaynKelly" src="https://capsule-render.vercel.app/api?type=waving&color=100:ff7a97,0:ff7a97&height=150&section=footer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="Zayn Kelly" alt="ZaynKelly" src="https://capsule-render.vercel.app/api?type=waving&color=100:f75c7e,0:f75c7e&height=150&section=footer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <!--
 **george-dev104/george-dev104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
