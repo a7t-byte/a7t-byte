@@ -206,6 +206,14 @@
         <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
       <br>Prettier
     </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ai" alt="icon" width="65" height="65" />
+      <br>Adobe Illustrator
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ps" alt="icon" width="65" height="65" />
+      <br>Adobe Photoshop
+    </td>
   </tr>
 </table>
 
@@ -214,6 +222,16 @@
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<h3 align="left">🌼 Connect with me</h3>
+<p align="left">
+<a href="https://codepen.io/a7t-byte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="a7t-byte" height="30" width="40" /></a>
+<a href="https://dev.to/a7t-byte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="a7t-byte" height="30" width="40" /></a>
+<a href="https://twitter.com/a7t-byte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a7t-byte" height="30" width="40" /></a>
+<a href="https://instagram.com/a7t-byte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a7t-byte" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/a7t-byte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="a7t-byte" height="30" width="40" /></a>
+<a href="https://discord.gg/voltixbot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="voltixbot" height="30" width="40" /></a>
+</p>
 
 <img width=100% title="Coder Abhi." alt="RBrooks76" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <!--
