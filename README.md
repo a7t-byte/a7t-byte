@@ -1,4 +1,4 @@
-<img width=100% title="Greeting Words" alt="ZaynKelly" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=100:f75c7e,0:f75c7e&text=THANKS%20FOR%20VISITING&fontSize=42&fontAlignY=32&animation=twinkling"/>
+<img width=100% title="Greeting Words" alt="ZaynKelly" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=100:305595,0:305595&text=THANKS%20FOR%20VISITING&fontSize=42&fontAlignY=32&animation=twinkling"/>
 
 <p align="center">
   <a href="https://github.com/a7t-byte">
