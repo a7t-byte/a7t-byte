@@ -247,7 +247,7 @@
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
+<!--
 <h3 align="left">🌼 Connect with me</h3>
 <p align="left">
 <a href="https://codepen.io/a7t-byte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="a7t-byte" height="30" width="40" /></a>
@@ -255,6 +255,7 @@
 <a href="https://twitter.com/a7tbyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a7t-byte" height="30" width="40" /></a>
 <a href="https://discord.gg/voltixbot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="voltixbot" height="30" width="40" /></a>
 </p>
+-->
 
 <img width=100% title="Zayn Kelly" alt="ZaynKelly" src="https://capsule-render.vercel.app/api?type=waving&color=100:ff7a97,0:ff7a97&height=150&section=footer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <!--
