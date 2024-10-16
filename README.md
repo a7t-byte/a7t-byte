@@ -44,7 +44,7 @@
 ## 
 
 <div align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/260234767058862080.png">
+  <img src="https://discord.c99.nl/widget/theme-2/260234767058862080.png">
 </div>
 
 <div align="center">
