@@ -48,7 +48,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=a7t-byte" alt="GitHub Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=a7t-byte&style=for-the-badge&color=f75c7e" alt="GitHub Profile Views">
 </div>
 
 <br/><br/>
