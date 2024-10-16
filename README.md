@@ -16,7 +16,9 @@
 
 ## 
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=260234767058862080)
+<div align="center">
+  <img src="https://discord-readme-badge.vercel.app/api?id=260234767058862080" alt="My Discord">
+</div>
 
 <br/><br/>
 
