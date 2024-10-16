@@ -16,6 +16,8 @@
 
 ## 
 
+![My Discord](https://discord-readme-badge.vercel.app/api?id=260234767058862080)
+
 <br/><br/>
 
 <h1 align="center">🌟 Programming Languages </h1>
@@ -198,6 +200,12 @@
     </td>
   </tr>
 </table>
+
+
+<br/><br/>
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <img width=100% title="Coder Abhi." alt="RBrooks76" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <!--
