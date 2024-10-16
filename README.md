@@ -44,7 +44,7 @@
 ## 
 
 <div align="center">
-  <img src="https://discord-readme-badge.vercel.app/api?id=260234767058862080" alt="My Discord">
+  <img src="https://discord.c99.nl/widget/theme-4/260234767058862080.png">
 </div>
 
 <div align="center">
