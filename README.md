@@ -47,11 +47,11 @@
   <img src="https://discord.c99.nl/widget/theme-2/260234767058862080.png">
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=92snzp5cylz0joodc94q92z8j&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=92snzp5cylz0joodc94q92z8j&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=2954d6&bar_color_cover=true" alt="Spotify Profile">
   </a>
-</div>
+</div> -->
 
 <br/><br/>
 
